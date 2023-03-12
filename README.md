@@ -1,8 +1,22 @@
+<p align="center">
+ <img src="./assets/command-icon.png" width="128" height="128" />
+</p>
+<br/>
+
 # Raycast QueryGPT
 
 A raycast extension to query a Postgre SQL database using GPT generated SQL queries and visualize results using Chart.js
 
 Inspired by [censusgpt.com](https://censusgpt.com/) and [Metabase](https://metabase.com/) questions
+
+A little demo with data form [ProductHunt](https://producthunt.com)'s API
+
+![demo](./assets/demo.gif)
+
+Like this project ?
+
+- 🐥 Follow me on Twitter: [@m_dolr](https://twitter.com/m_dolr)
+- ⭐️ Star this repository on GitHub
 
 # ⚠️ Disclaimer
 
